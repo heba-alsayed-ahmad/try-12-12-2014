@@ -6,7 +6,7 @@ gbtnjryujr6j
 *
 tpic of intrests
 *reset
-  *--hard
-  *--soft
+  * --hard
+  * --soft
 *hi
 ==============
